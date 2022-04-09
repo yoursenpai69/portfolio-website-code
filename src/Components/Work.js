@@ -83,7 +83,7 @@ const Work = () => {
             <div className="proj-hover hover1">
               <img src={require("../Assets/snap1.PNG")} alt="none" />
               <h2>Portfolio Website</h2>
-              <a href="start-page">
+              <a href="http://vijayaraghavan.me/portfolio_website/">
                 <Icon
                   icon="bx:bx-link-external"
                   width="27"

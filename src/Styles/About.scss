@@ -39,6 +39,7 @@
   background-color: $sec-black;
   border-radius: 20px;
   width: 100%;
+
   @include media("<=laptop") {
     width: 99%;
     height: 550px;
